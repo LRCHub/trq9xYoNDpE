@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "WABISABI",
+  "base_artist": "7co",
+  "createdAt": "2026-03-14T12:44:39.641594Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WABISABI",
+      "artist": "INABA/SALAS",
+      "has_synced": false,
+      "path": "select/01_WABISABI_INABA_SALAS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WABISABI",
+      "artist": "7co",
+      "has_synced": false,
+      "path": "select/pl_01_WABISABI_7co.txt"
+    }
+  ]
+}
